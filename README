@@ -1,0 +1,9 @@
+@SqYt.CO
+
+Requirements:
+-min. API: 16; -> Android 4.1
+-min. required storage: 20MB
+-ca. required RAM: 80MB
+
+Qt 5.9.1
+GCC 4.9

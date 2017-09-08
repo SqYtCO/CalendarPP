@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>TimeView.qml</file>
+        <file>main.qml</file>
+        <file>CalendarView.qml</file>
+        <file>MainScreen.qml</file>
+        <file>MenuBar.qml</file>
+        <file>MenuContent.qml</file>
+        <file>SettingsScreen.qml</file>
+        <file>NavigationDrawer.qml</file>
+        <file>CreateEventScreen.qml</file>
+        <file>HoverButton.qml</file>
+        <file>DateChooser.qml</file>
+        <file>TimeChooser.qml</file>
+        <file>PageController.qml</file>
+        <file>NextEventsScreen.qml</file>
+    </qresource>
+</RCC>
